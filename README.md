@@ -6,8 +6,8 @@ This project applies **K-Nearest Neighbors (KNN)** to classify handwritten digit
 The project includes:
 - **Data Preprocessing**: Flattening and normalizing images.
 - **KNN Classification**: Testing different K values (2 to 100).
-- **Model Evaluation**: Comparing accuracy scores for different values of K.
-- **Visualization**: Accuracy vs. K-Value plot.
+- **Model Evaluation**: Comparing accuracy scores for different values of K and plots visual representation of overfitting vs. underfitting as K changes.
+- **Visualization**: Accuracy vs. K-Value plot, Accuracy for Train and Test vs. K-Value plot.
 
 ## Installation
 Make sure you have Python and the required libraries installed:
